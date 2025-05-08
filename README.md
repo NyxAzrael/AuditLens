@@ -2,8 +2,11 @@
 
 > A beautiful, Apple-style code auditing tool for security researchers and developers.
 > Quickly manage comments, status, and project switching — for a clearer audit perspective.
+<div style="text-align: center;">
 
----
+[中文版](./readme-cn.md)
+
+</div>
 
 ## 🧩 Feature Overview
 
