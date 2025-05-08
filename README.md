@@ -1,11 +1,8 @@
 
-# 📘 AuditLens V0.1
+# <img src="https://github.com/user-attachments/assets/a2004f55-f5e2-48c5-84f8-e435f9cb5b7c" width="50" alt="GitHub Icon"> AuditLens V0.1
 
 > A beautiful, Apple-style code auditing tool for security researchers and developers.  
 > 快速管理注释、状态、项目切换，还你清晰的审计视野。
-
-![image](https://github.com/user-attachments/assets/d53cf7ef-0e35-47b3-9858-aef3a61bcb0a)
-
 
 ---
 
